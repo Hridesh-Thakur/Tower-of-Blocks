@@ -94,5 +94,5 @@ Explore more projects here:
 ---
 
 <p align="center">
-  Built with focus, logic, and creativity by <strong>Hridesh Thakur</strong>
+ Built with ❤ by <strong>Hridesh Thakur</strong>
 </p>
