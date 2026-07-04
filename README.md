@@ -8,7 +8,7 @@
 
 [![Game](https://img.shields.io/badge/Game-Tower%20of%20Blocks-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Hridesh-Thakur/Tower-of-Blocks)
 [![Author](https://img.shields.io/badge/Author-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hridesh-Thakur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://hridesh-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://hridesh-portfolio.vercel.app/)
 
 </div>
 
@@ -35,7 +35,7 @@
 - Lightweight and fast browser performance
 - Beginner-friendly project structure
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 This project may include:
 
@@ -57,7 +57,7 @@ Tower-of-Blocks/
 
 > Replace the folder structure above with your actual project files if needed.
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -67,7 +67,7 @@ git clone https://github.com/Hridesh-Thakur/Tower-of-Blocks.git
 
 ### 2. Run the project
 
-If this is a browser-based game, simply open `index.html` in your browser.
+Simply open `index.html` in your browser.
 
 ## Why This Project Stands Out
 
