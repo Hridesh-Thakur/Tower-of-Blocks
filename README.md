@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Game](https://img.shields.io/badge/Game-Tower%20of%20Blocks-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Hridesh-Thakur/Tower-of-Blocks)
+[![Game](https://img.shields.io/badge/Game-Tower%20of%20Blocks-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tower-of-blocks.vercel.app/)
 [![Author](https://img.shields.io/badge/Author-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hridesh-Thakur)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://hridesh-portfolio.vercel.app/)
 
