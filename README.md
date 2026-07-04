@@ -43,7 +43,7 @@ This project may include:
 - CSS
 - JavaScript
 
-> Update this section if your project uses Canvas, GSAP, Three.js, or any other library.
+
 
 ## Project Structure
 
@@ -51,11 +51,10 @@ This project may include:
 Tower-of-Blocks/
 ├── index.html
 ├── style.css
-├── script.js
-└── assets/
+└── script.js
 ```
 
-> Replace the folder structure above with your actual project files if needed.
+
 
 ## Getting Started
 
