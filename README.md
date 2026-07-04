@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Game](https://img.shields.io/badge/Game-Tower%20of%20Blocks-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Hridesh-Thakur/Tower-of-Blocks)
-[![Author](https://img.shields.io/badge/Author-Hridesh%20Thakur-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hridesh-Thakur)
+[![Author](https://img.shields.io/badge/Author-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hridesh-Thakur)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://hridesh-portfolio.vercel.app/)
 
 </div>
