@@ -1,6 +1,4 @@
 {
   "appId": "com.hridesh.towerofblocks",
-  "appName": "Tower Of Block",
-  "webDir": ".",
-  "bundledWebRuntime": false
+  "appName": "Tower Of Block"
 }
