@@ -1,5 +1,6 @@
-const config = {
-  appId: 'com.hridesh.towerofblocks',
-  appName: 'Tower Of Block',
-  webDir: 'dist',
-};
+{
+  "appId": "com.hridesh.towerofblocks",
+  "appName": "Tower Of Block",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
