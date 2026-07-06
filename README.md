@@ -3,6 +3,9 @@
 <p align="center">
   A premium browser-based stacking game where precision, timing, and focus decide how high you can build.
 </p>
+<p align="center">
+ <strong> Available on the Play Store soon</strong>
+</p>
 
 <div align="center">
 
