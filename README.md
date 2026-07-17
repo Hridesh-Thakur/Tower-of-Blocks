@@ -1,4 +1,4 @@
-<h1 align="center">Tower of Blocks</h1>      
+<h1 align="center">Tower of Blocks</h1>        
 
 <p align="center">
   A premium browser-based stacking game where precision, timing, and focus decide how high you can build.
